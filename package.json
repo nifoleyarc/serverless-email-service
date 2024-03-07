@@ -1,0 +1,23 @@
+{
+  "name": "serverless-email-service",
+  "version": "1.0.0",
+  "description": "The Serverless Email Service is a JavaScript package for sending emails in serverless applications. It provides a simplified interface for sending emails without managing email servers directly.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "",
+    "",
+    ""
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "serverless-image-processing-toolkit": "^1.0.0"
+  }
+}
